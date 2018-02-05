@@ -1,5 +1,5 @@
 import React from "react";
-
+import PropTypes from "prop-types";
 
 function House(props){
   return (
@@ -12,5 +12,13 @@ function House(props){
     </div>
   );
 }
+
+House.propTypes = {
+  category: PropTypes.string,
+  beds: PropTypes.number,
+  title: PropTypes.string,
+  price: PropTypes.number,
+  rating: PropTypes.string
+};
 
 export default House;

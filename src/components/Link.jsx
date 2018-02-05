@@ -1,4 +1,6 @@
 import React from "react";
+import PropTypes from "prop-types";
+
 
 
 function Link(props){
@@ -9,5 +11,9 @@ function Link(props){
     </div>
   );
 }
+
+Link.propTypes = {
+  title: PropTypes.string
+};
 
 export default Link;

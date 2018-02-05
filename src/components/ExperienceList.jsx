@@ -12,7 +12,7 @@ function ExperienceList(){
             category="Surf Lesson"
             location="Bali"
             title="The Surf Champion"
-            price="12"
+            price= {12}
             rating="Five Stars"/>
         </div>
         <div className="col-md-3">
@@ -20,7 +20,7 @@ function ExperienceList(){
             category="Surf Lesson"
             location="Bali"
             title="The Surf Champion"
-            price="12"
+            price= {12}
             rating="Five Stars"/>
         </div>
         <div className="col-md-3">
@@ -28,7 +28,7 @@ function ExperienceList(){
             category="Surf Lesson"
             location="Bali"
             title="The Surf Champion"
-            price="12"
+            price= {12}
             rating="Five Stars"/>
         </div>
         <div className="col-md-3">
@@ -36,7 +36,7 @@ function ExperienceList(){
             category="Surf Lesson"
             location="Bali"
             title="The Surf Champion"
-            price="12"
+            price= {12}
             rating="Five Stars"/>
         </div>
       </div>
@@ -47,7 +47,7 @@ function ExperienceList(){
             category="Surf Lesson"
             location="Bali"
             title="The Surf Champion"
-            price="12"
+            price= {12}
             rating="Five Stars"/>
         </div>
         <div className="col-md-3">
@@ -55,7 +55,7 @@ function ExperienceList(){
             category="Surf Lesson"
             location="Bali"
             title="The Surf Champion"
-            price="12"
+            price= {12}
             rating="Five Stars"/>
         </div>
         <div className="col-md-3">
@@ -63,7 +63,7 @@ function ExperienceList(){
             category="Surf Lesson"
             location="Bali"
             title="The Surf Champion"
-            price="12"
+            price= {12}
             rating="Five Stars"/>
         </div>
         <div className="col-md-3">
@@ -71,7 +71,7 @@ function ExperienceList(){
             category="Surf Lesson"
             location="Bali"
             title="The Surf Champion"
-            price="12"
+            price= {12}
             rating="Five Stars"/>
         </div>
       </div>

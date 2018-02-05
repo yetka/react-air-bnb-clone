@@ -9,33 +9,33 @@ function HomesList(){
         <div className="col-md-3">
           <House
             category="Entire House"
-            beds="2"
+            beds={2}
             title="Unique Cob Cottage"
-            price="12"
+            price={12}
             rating="Five Stars"/>
         </div>
         <div className="col-md-3">
           <House
             category="Surf Lesson"
-            beds="2"
+            beds={2}
             title="Amazing View"
-            price="12"
+            price={12}
             rating="Five Stars"/>
         </div>
         <div className="col-md-3">
           <House
             category="Surf Lesson"
-            beds="2"
+            beds={2}
             title="Amazing View"
-            price="12"
+            price={12}
             rating="Five Stars"/>
         </div>
         <div className="col-md-3">
           <House
             category="Surf Lesson"
-            beds="2"
+            beds={2}
             title="Amazing View"
-            price="12"
+            price={12}
             rating="Five Stars"/>
         </div>
       </div>
@@ -44,33 +44,33 @@ function HomesList(){
         <div className="col-md-3">
           <House
             category="Surf Lesson"
-            beds="2"
+            beds={2}
             title="Amazing View"
-            price="12"
+            price={12}
             rating="Five Stars"/>
         </div>
         <div className="col-md-3">
           <House
             category="Surf Lesson"
-            beds="2"
+            beds={2}
             title="Amazing View"
-            price="12"
+            price={12}
             rating="Five Stars"/>
         </div>
         <div className="col-md-3">
           <House
             category="Surf Lesson"
-            beds="2"
+            beds={2}
             title="Amazing View"
-            price="12"
+            price={12}
             rating="Five Stars"/>
         </div>
         <div className="col-md-3">
           <House
             category="Surf Lesson"
-            beds="2"
+            beds={2}
             title="Amazing View"
-            price="12"
+            price={12}
             rating="Five Stars"/>
         </div>
       </div>
