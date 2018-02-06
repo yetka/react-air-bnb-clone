@@ -1,10 +1,10 @@
-import React from "react";
-import NavBar from "./NavBar";
-import Header from "./Header";
-import Search from "./Search";
-import Explore from "./Explore";
-import ExperienceList from "./ExperienceList";
-import HomesList from "./HomesList";
+import React from 'react';
+import NavBar from './NavBar';
+import Header from './Header';
+import Search from './Search';
+import Explore from './Explore';
+import ExperienceList from './ExperienceList';
+import HomesList from './HomesList';
 
 function App(){
   return (
