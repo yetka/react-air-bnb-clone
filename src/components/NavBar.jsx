@@ -1,4 +1,5 @@
 import React from 'react';
+import airbnb_logo from '../assets/images/airbnb_logo.png';
 
 
 function NavBar(){
@@ -8,7 +9,7 @@ function NavBar(){
   return (
     <div className="row">
       <div className="col-md-1">
-        <img alt="airbnb logo"></img>
+        <img src={airbnb_logo} alt="airbnb logo"></img>
       </div>
       <div className="col-md-6">
 
