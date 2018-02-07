@@ -9,9 +9,13 @@ import HomesList from './HomesList';
 function App(){
   return (
     <div className="container">
+      <style jsx global>{`
+        body {
+          font-family: Helvetica;
+          padding: 30px;
+        }
+      `}</style>
       <NavBar/>
-      <br></br>
-      <br></br>
       <br></br>
       <br></br>
       <Header/>
