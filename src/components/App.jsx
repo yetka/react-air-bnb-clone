@@ -18,12 +18,19 @@ function App(){
       <NavBar/>
       <br></br>
       <br></br>
-      <Header/>
-      <Search/>
+      <br></br>
+      <br></br>
+      <div style={{padding: '150px'}}>
+        <Header/>
+        <Search/>
+      </div>
       <br></br>
       <br></br>
       <br></br>
       <Explore/>
+      <br></br>
+      <br></br>
+      <br></br>
       <ExperienceList/>
       <hr></hr>
       <HomesList/>

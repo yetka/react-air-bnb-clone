@@ -10,8 +10,8 @@ function Search(){
   };
   return (
     <div style={searchStyles}>
-      <input type="text" placeholder='Try "Orlando"'></input>
-      <button className="btn btn-danger">Search</button>
+      <input style={{border: 'none', width: '680px', height: '50px', fontSize: '20px'}} type="text" placeholder='   Try "Orlando"'></input>
+      <button style={{fontSize: '18px'}} className="btn btn-danger">Search</button>
     </div>
   );
 }

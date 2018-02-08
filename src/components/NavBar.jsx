@@ -9,7 +9,7 @@ function NavBar(){
   return (
     <div className="row">
       <div className="col-md-1">
-        <img src={airbnb_logo} alt="airbnb logo"></img>
+        <img style={{width: '70px'}}  src={airbnb_logo} alt="airbnb logo"></img>
       </div>
       <div className="col-md-6">
 

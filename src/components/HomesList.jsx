@@ -8,7 +8,7 @@ function HomesList(){
       beds: 2,
       title: 'Unique Cob Cottage',
       price: 12,
-      rating: 'Five Stars'
+      rating: '*****'
     },
     {
       category: 'Entire House',
